@@ -95,6 +95,7 @@ p {
 
 .datos__icons a:hover {
     color: var(--primario);
+    background-color: transparent;
 }
 
 .datos__cv {
